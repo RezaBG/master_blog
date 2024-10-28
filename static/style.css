@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #4F4F4F;
+}
+
+.post {
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.post h2 {
+    margin-top: 0;
+}
+
+.post p {
+    margin: 10px 0;
+}
+
+
+/*!* General page styling *!*/
+/*body {*/
+/*    font-family: Arial, sans-serif;*/
+/*    background-color: #F5F5F5;*/
+/*    color: #333;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+/*h1 {*/
+/*    text-align: center;*/
+/*    color: #4F4F4F;*/
+/*    padding: 20px;*/
+/*    margin: 0;*/
+/*    background-color: #333;*/
+/*    color: #FFF;*/
+/*}*/
+
+/*!* Container for blog posts *!*/
+/*.blog_posts {*/
+/*    max-width: 800px;*/
+/*    margin: 20px auto;*/
+/*    padding: 20px;*/
+/*}*/
+
+/*!* Individual post styling *!*/
+/*.post {*/
+/*    background-color: #FFF;*/
+/*    border: 1px solid #DDD;*/
+/*    padding: 20px;*/
+/*    margin-bottom: 20px;*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+/*.post h2 {*/
+/*    margin-top: 0;*/
+/*    font-size: 24px;*/
+/*    color: #333;*/
+/*}*/
+
+/*.post p {*/
+/*    margin: 10px 0;*/
+/*}*/
+
+/*!* Styling for buttons *!*/
+/*button {*/
+/*    padding: 10px 20px;*/
+/*    background-color: #4CAF50;*/
+/*    color: white;*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*    font-weight: bold;*/
+/*    cursor: pointer;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+/*button:hover {*/
+/*    background-color: #45a049;*/
+/*}*/
+
+/*button.update {*/
+/*    background-color: #007BFF;*/
+/*}*/
+
+/*button.update:hover {*/
+/*    background-color: #0069D9;*/
+/*}*/
+
+/*!* Link styling *!*/
+/*a {*/
+/*    display: block;*/
+/*    text-align: center;*/
+/*    margin-top: 10px;*/
+/*    text-decoration: none;*/
+/*    font-weight: bold;*/
+/*    color: #007BFF;*/
+/*}*/
+
+/*a:hover {*/
+/*    color: #0056b3;*/
+/*}*/
